@@ -13,4 +13,3 @@ src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git openclash https://github.com/vernesong/OpenClash
 src-git OpenAppFilter https://github.com/Lienol/openwrt-OpenAppFilter
 
-
